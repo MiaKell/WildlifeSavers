@@ -1,5 +1,5 @@
 body{
-    background-image: url(images/andy-leopard.jpeg);
+    background-image: url(Images/andy-leopard.jpeg);
     background-color: rgb(35, 204, 35);
     background-size:cover;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@ body{
     align-items: center;
 }
 .amur-leapord-body{
-    background-image: url(images/amur-leapord.jpeg);
+    background-image: url(Images/amur-leapord.jpeg);
 }
 .orangutan-body{
     background-image: url(Images/orangutans.jfif);
