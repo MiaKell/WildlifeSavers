@@ -1,0 +1,241 @@
+body{
+    background-image: url(images/andy-leopard.jpeg);
+    background-color: rgb(35, 204, 35);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.amur-leapord-body{
+    background-image: url(images/amur-leapord.jpeg);
+}
+.orangutan-body{
+    background-image: url(Images/orangutans.jfif);
+}
+.faded-background {
+    background-color: rgba(0, 0, 0, 0.527);
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 600px;
+}
+.black-background{
+    background-color: rgba(0, 0, 0, 0.527);
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 800px;
+    text-align: center;
+}
+.p1-4{
+    color: aqua;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p2-4{
+    color: aquamarine;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+    font-family: cursive;
+}
+.p3-4{
+    color: lightseagreen;
+    text-align: center;
+    font-weight: bolder;
+    font-size: medium;
+    font-family: sans-serif;
+}
+.highlight-text{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: aqua;
+    text-decoration: underline;
+    text-align: center;
+}
+.p4-4{
+    color: aquamarine;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    text-overflow: inherit;
+}
+.p5-10{
+    color: lightskyblue;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-overflow: unset;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p6-10{
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: lightblue;
+    text-decoration: underline;
+    text-overflow: clip;
+}
+.p7-10{
+    font-size: 80px;
+    color: aquamarine;
+    font-family: cursive;
+    font-weight: 100px;
+}
+.p7-10{
+    color: dodgerblue;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.animal-list-item{
+    color: aqua;
+    font-size: xx-large;
+    font-weight: 100;
+    text-align: center;
+}
+.animal-list {
+    color: lightseagreen;
+}
+.animal-list-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.animal-quiz-tosee-whatanimal-you-are{
+    color: aqua;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.to-our-all-about-us{
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.talkaboutus{
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.first-talk-to-save-wildlife{
+    color: azure;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+.logo-image{
+    width: 150px;
+} 
+.about-how-we-save-wildlife{
+    color: aquamarine;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+.picking-up-litter{
+    color: aqua;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.saving-the-world{
+    color: dodgerblue;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 900;
+}
+.Amur-Leapord{
+    color: aquamarine;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.Amur-Leapord-facts{
+    color: aqua;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+.title-for-beggining{
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.orangutan-facts{
+
+    color: turquoise;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+}
+.tiger-background{
+    background-image: url(Images/tiger.jpeg);
+}
+.list-for-tigers{
+    color: aquamarine;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.list-for-tigers-faveroute{
+    color: aqua;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.animal-saving-body{
+    background-image: url(Images/peoplesavinganimals.jpeg);
+}
+.text-number-one{
+    color: aqua;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+.text-number-one{
+    color: aqua;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+}
+.reason-why{
+    color: dodgerblue;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+.click-here{
+    color: darkturquoise;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+.animal-saving{
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.elephant-body{
+    background-image: url(Images/efunelephants.jpeg);
+    width: 100px;
+}
+.really-important{
+    color: rgb(6, 6, 253);
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.badge-getter{
+    color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
